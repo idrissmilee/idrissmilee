@@ -1,0 +1,304 @@
+age,sex,cp,trtbps,chol,fbs,restecg,thalachh,exng,oldpeak,slp,caa,thall,output
+63,Female,Non-Angina Pain,145,233,TRUE,Normal,150,No,2.3,0,0,1,More chance of heart attack
+37,Female,Atypical Angina,130,250,FALSE,Having ST-T Wave Abnormality,187,No,3.5,0,0,2,More chance of heart attack
+41,Male,Typical Angina,130,204,FALSE,Normal,172,No,1.4,2,0,2,More chance of heart attack
+56,Female,Typical Angina,120,236,FALSE,Having ST-T Wave Abnormality,178,No,0.8,2,0,2,More chance of heart attack
+57,Male,0,120,354,FALSE,Having ST-T Wave Abnormality,163,Yes,0.6,2,0,2,More chance of heart attack
+57,Female,0,140,192,FALSE,Having ST-T Wave Abnormality,148,No,0.4,1,0,1,More chance of heart attack
+56,Male,Typical Angina,140,294,FALSE,Normal,153,No,1.3,1,0,2,More chance of heart attack
+44,Female,Typical Angina,120,263,FALSE,Having ST-T Wave Abnormality,173,No,0,2,0,3,More chance of heart attack
+52,Female,Atypical Angina,172,199,TRUE,Having ST-T Wave Abnormality,162,No,0.5,2,0,3,More chance of heart attack
+57,Female,Atypical Angina,150,168,FALSE,Having ST-T Wave Abnormality,174,No,1.6,2,0,2,More chance of heart attack
+54,Female,0,140,239,FALSE,Having ST-T Wave Abnormality,160,No,1.2,2,0,2,More chance of heart attack
+48,Male,Atypical Angina,130,275,FALSE,Having ST-T Wave Abnormality,139,No,0.2,2,0,2,More chance of heart attack
+49,Female,Typical Angina,130,266,FALSE,Having ST-T Wave Abnormality,171,No,0.6,2,0,2,More chance of heart attack
+64,Female,Non-Angina Pain,110,211,FALSE,Normal,144,Yes,1.8,1,0,2,More chance of heart attack
+58,Male,Non-Angina Pain,150,283,TRUE,Normal,162,No,1,2,0,2,More chance of heart attack
+50,Male,Atypical Angina,120,219,FALSE,Having ST-T Wave Abnormality,158,No,1.6,1,0,2,More chance of heart attack
+58,Male,Atypical Angina,120,340,FALSE,Having ST-T Wave Abnormality,172,No,0,2,0,2,More chance of heart attack
+66,Male,Non-Angina Pain,150,226,FALSE,Having ST-T Wave Abnormality,114,No,2.6,0,0,2,More chance of heart attack
+43,Female,0,150,247,FALSE,Having ST-T Wave Abnormality,171,No,1.5,2,0,2,More chance of heart attack
+69,Male,Non-Angina Pain,140,239,FALSE,Having ST-T Wave Abnormality,151,No,1.8,2,2,2,More chance of heart attack
+59,Female,0,135,234,FALSE,Having ST-T Wave Abnormality,161,No,0.5,1,0,3,More chance of heart attack
+44,Female,Atypical Angina,130,233,FALSE,Having ST-T Wave Abnormality,179,Yes,0.4,2,0,2,More chance of heart attack
+42,Female,0,140,226,FALSE,Having ST-T Wave Abnormality,178,No,0,2,0,2,More chance of heart attack
+61,Female,Atypical Angina,150,243,TRUE,Having ST-T Wave Abnormality,137,Yes,1,1,0,2,More chance of heart attack
+40,Female,Non-Angina Pain,140,199,FALSE,Having ST-T Wave Abnormality,178,Yes,1.4,2,0,3,More chance of heart attack
+71,Male,Typical Angina,160,302,FALSE,Having ST-T Wave Abnormality,162,No,0.4,2,2,2,More chance of heart attack
+59,Female,Atypical Angina,150,212,TRUE,Having ST-T Wave Abnormality,157,No,1.6,2,0,2,More chance of heart attack
+51,Female,Atypical Angina,110,175,FALSE,Having ST-T Wave Abnormality,123,No,0.6,2,0,2,More chance of heart attack
+65,Male,Atypical Angina,140,417,TRUE,Normal,157,No,0.8,2,1,2,More chance of heart attack
+53,Female,Atypical Angina,130,197,TRUE,Normal,152,No,1.2,0,0,2,More chance of heart attack
+41,Male,Typical Angina,105,198,FALSE,Having ST-T Wave Abnormality,168,No,0,2,1,2,More chance of heart attack
+65,Female,0,120,177,FALSE,Having ST-T Wave Abnormality,140,No,0.4,2,0,3,More chance of heart attack
+44,Female,Typical Angina,130,219,FALSE,Normal,188,No,0,2,0,2,More chance of heart attack
+54,Female,Atypical Angina,125,273,FALSE,Normal,152,No,0.5,0,1,2,More chance of heart attack
+51,Female,Non-Angina Pain,125,213,FALSE,Normal,125,Yes,1.4,2,1,2,More chance of heart attack
+46,Male,Atypical Angina,142,177,FALSE,Normal,160,Yes,1.4,0,0,2,More chance of heart attack
+54,Male,Atypical Angina,135,304,TRUE,Having ST-T Wave Abnormality,170,No,0,2,0,2,More chance of heart attack
+54,Female,Atypical Angina,150,232,FALSE,Normal,165,No,1.6,2,0,3,More chance of heart attack
+65,Male,Atypical Angina,155,269,FALSE,Having ST-T Wave Abnormality,148,No,0.8,2,0,2,More chance of heart attack
+65,Male,Atypical Angina,160,360,FALSE,Normal,151,No,0.8,2,0,2,More chance of heart attack
+51,Male,Atypical Angina,140,308,FALSE,Normal,142,No,1.5,2,1,2,More chance of heart attack
+48,Female,Typical Angina,130,245,FALSE,Normal,180,No,0.2,1,0,2,More chance of heart attack
+45,Female,0,104,208,FALSE,Normal,148,Yes,3,1,0,2,More chance of heart attack
+53,Male,0,130,264,FALSE,Normal,143,No,0.4,1,0,2,More chance of heart attack
+39,Female,Atypical Angina,140,321,FALSE,Normal,182,No,0,2,0,2,More chance of heart attack
+52,Female,Typical Angina,120,325,FALSE,Having ST-T Wave Abnormality,172,No,0.2,2,0,2,More chance of heart attack
+44,Female,Atypical Angina,140,235,FALSE,Normal,180,No,0,2,0,2,More chance of heart attack
+47,Female,Atypical Angina,138,257,FALSE,Normal,156,No,0,2,0,2,More chance of heart attack
+53,Male,Atypical Angina,128,216,FALSE,Normal,115,No,0,2,0,0,More chance of heart attack
+53,Male,0,138,234,FALSE,Normal,160,No,0,2,0,2,More chance of heart attack
+51,Male,Atypical Angina,130,256,FALSE,Normal,149,No,0.5,2,0,2,More chance of heart attack
+66,Female,0,120,302,FALSE,Normal,151,No,0.4,1,0,2,More chance of heart attack
+62,Female,Atypical Angina,130,231,FALSE,Having ST-T Wave Abnormality,146,No,1.8,1,3,3,More chance of heart attack
+44,Male,Atypical Angina,108,141,FALSE,Having ST-T Wave Abnormality,175,No,0.6,1,0,2,More chance of heart attack
+63,Male,Atypical Angina,135,252,FALSE,Normal,172,No,0,2,0,2,More chance of heart attack
+52,Female,Typical Angina,134,201,FALSE,Having ST-T Wave Abnormality,158,No,0.8,2,1,2,More chance of heart attack
+48,Female,0,122,222,FALSE,Normal,186,No,0,2,0,2,More chance of heart attack
+45,Female,0,115,260,FALSE,Normal,185,No,0,2,0,2,More chance of heart attack
+34,Female,Non-Angina Pain,118,182,FALSE,Normal,174,No,0,2,0,2,More chance of heart attack
+57,Male,0,128,303,FALSE,Normal,159,No,0,2,1,2,More chance of heart attack
+71,Male,Atypical Angina,110,265,TRUE,Normal,130,No,0,2,1,2,More chance of heart attack
+54,Female,Typical Angina,108,309,FALSE,Having ST-T Wave Abnormality,156,No,0,2,0,3,More chance of heart attack
+52,Female,Non-Angina Pain,118,186,FALSE,Normal,190,No,0,1,0,1,More chance of heart attack
+41,Female,Typical Angina,135,203,FALSE,Having ST-T Wave Abnormality,132,No,0,1,0,1,More chance of heart attack
+58,Female,Atypical Angina,140,211,TRUE,Normal,165,No,0,2,0,2,More chance of heart attack
+35,Male,0,138,183,FALSE,Having ST-T Wave Abnormality,182,No,1.4,2,0,2,More chance of heart attack
+51,Female,Atypical Angina,100,222,FALSE,Having ST-T Wave Abnormality,143,Yes,1.2,1,0,2,More chance of heart attack
+45,Male,Typical Angina,130,234,FALSE,Normal,175,No,0.6,1,0,2,More chance of heart attack
+44,Female,Typical Angina,120,220,FALSE,Having ST-T Wave Abnormality,170,No,0,2,0,2,More chance of heart attack
+62,Male,0,124,209,FALSE,Having ST-T Wave Abnormality,163,No,0,2,0,2,More chance of heart attack
+54,Female,Atypical Angina,120,258,FALSE,Normal,147,No,0.4,1,0,3,More chance of heart attack
+51,Female,Atypical Angina,94,227,FALSE,Having ST-T Wave Abnormality,154,Yes,0,2,1,3,More chance of heart attack
+29,Female,Typical Angina,130,204,FALSE,Normal,202,No,0,2,0,2,More chance of heart attack
+51,Female,0,140,261,FALSE,Normal,186,Yes,0,2,0,2,More chance of heart attack
+43,Male,Atypical Angina,122,213,FALSE,Having ST-T Wave Abnormality,165,No,0.2,1,0,2,More chance of heart attack
+55,Male,Typical Angina,135,250,FALSE,Normal,161,No,1.4,1,0,2,More chance of heart attack
+51,Female,Atypical Angina,125,245,TRUE,Normal,166,No,2.4,1,0,2,More chance of heart attack
+59,Female,Typical Angina,140,221,FALSE,Having ST-T Wave Abnormality,164,Yes,0,2,0,2,More chance of heart attack
+52,Female,Typical Angina,128,205,TRUE,Having ST-T Wave Abnormality,184,No,0,2,0,2,More chance of heart attack
+58,Female,Atypical Angina,105,240,FALSE,Normal,154,Yes,0.6,1,0,3,More chance of heart attack
+41,Female,Atypical Angina,112,250,FALSE,Having ST-T Wave Abnormality,179,No,0,2,0,2,More chance of heart attack
+45,Female,Typical Angina,128,308,FALSE,Normal,170,No,0,2,0,2,More chance of heart attack
+60,Male,Atypical Angina,102,318,FALSE,Having ST-T Wave Abnormality,160,No,0,2,1,2,More chance of heart attack
+52,Female,Non-Angina Pain,152,298,TRUE,Having ST-T Wave Abnormality,178,No,1.2,1,0,3,More chance of heart attack
+42,Male,0,102,265,FALSE,Normal,122,No,0.6,1,0,2,More chance of heart attack
+67,Male,Atypical Angina,115,564,FALSE,Normal,160,No,1.6,1,0,3,More chance of heart attack
+68,Female,Atypical Angina,118,277,FALSE,Having ST-T Wave Abnormality,151,No,1,2,1,3,More chance of heart attack
+46,Female,Typical Angina,101,197,TRUE,Having ST-T Wave Abnormality,156,No,0,2,0,3,More chance of heart attack
+54,Male,Atypical Angina,110,214,FALSE,Having ST-T Wave Abnormality,158,No,1.6,1,0,2,More chance of heart attack
+58,Male,0,100,248,FALSE,Normal,122,No,1,1,0,2,More chance of heart attack
+48,Female,Atypical Angina,124,255,TRUE,Having ST-T Wave Abnormality,175,No,0,2,2,2,More chance of heart attack
+57,Female,0,132,207,FALSE,Having ST-T Wave Abnormality,168,Yes,0,2,0,3,More chance of heart attack
+52,Female,Atypical Angina,138,223,FALSE,Having ST-T Wave Abnormality,169,No,0,2,4,2,More chance of heart attack
+54,Male,Typical Angina,132,288,TRUE,Normal,159,Yes,0,2,1,2,More chance of heart attack
+45,Male,Typical Angina,112,160,FALSE,Having ST-T Wave Abnormality,138,No,0,1,0,2,More chance of heart attack
+53,Female,0,142,226,FALSE,Normal,111,Yes,0,2,0,3,More chance of heart attack
+62,Male,0,140,394,FALSE,Normal,157,No,1.2,1,0,2,More chance of heart attack
+52,Female,0,108,233,TRUE,Having ST-T Wave Abnormality,147,No,0.1,2,3,3,More chance of heart attack
+43,Female,Atypical Angina,130,315,FALSE,Having ST-T Wave Abnormality,162,No,1.9,2,1,2,More chance of heart attack
+53,Female,Atypical Angina,130,246,TRUE,Normal,173,No,0,2,3,2,More chance of heart attack
+42,Female,Non-Angina Pain,148,244,FALSE,Normal,178,No,0.8,2,2,2,More chance of heart attack
+59,Female,Non-Angina Pain,178,270,FALSE,Normal,145,No,4.2,0,0,3,More chance of heart attack
+63,Male,Typical Angina,140,195,FALSE,Having ST-T Wave Abnormality,179,No,0,2,2,2,More chance of heart attack
+42,Female,Atypical Angina,120,240,TRUE,Having ST-T Wave Abnormality,194,No,0.8,0,0,3,More chance of heart attack
+50,Female,Atypical Angina,129,196,FALSE,Having ST-T Wave Abnormality,163,No,0,2,0,2,More chance of heart attack
+68,Male,Atypical Angina,120,211,FALSE,Normal,115,No,1.5,1,0,2,More chance of heart attack
+69,Female,Non-Angina Pain,160,234,TRUE,Normal,131,No,0.1,1,1,2,More chance of heart attack
+45,Male,0,138,236,FALSE,Normal,152,Yes,0.2,1,0,2,More chance of heart attack
+50,Male,Typical Angina,120,244,FALSE,Having ST-T Wave Abnormality,162,No,1.1,2,0,2,More chance of heart attack
+50,Male,0,110,254,FALSE,Normal,159,No,0,2,0,2,More chance of heart attack
+64,Male,0,180,325,FALSE,Having ST-T Wave Abnormality,154,Yes,0,2,0,2,More chance of heart attack
+57,Female,Atypical Angina,150,126,TRUE,Having ST-T Wave Abnormality,173,No,0.2,2,1,3,More chance of heart attack
+64,Male,Atypical Angina,140,313,FALSE,Having ST-T Wave Abnormality,133,No,0.2,2,0,3,More chance of heart attack
+43,Female,0,110,211,FALSE,Having ST-T Wave Abnormality,161,No,0,2,0,3,More chance of heart attack
+55,Female,Typical Angina,130,262,FALSE,Having ST-T Wave Abnormality,155,No,0,2,0,2,More chance of heart attack
+37,Male,Atypical Angina,120,215,FALSE,Having ST-T Wave Abnormality,170,No,0,2,0,2,More chance of heart attack
+41,Female,Atypical Angina,130,214,FALSE,Normal,168,No,2,1,0,2,More chance of heart attack
+56,Female,Non-Angina Pain,120,193,FALSE,Normal,162,No,1.9,1,0,3,More chance of heart attack
+46,Male,Typical Angina,105,204,FALSE,Having ST-T Wave Abnormality,172,No,0,2,0,2,More chance of heart attack
+46,Male,0,138,243,FALSE,Normal,152,Yes,0,1,0,2,More chance of heart attack
+64,Male,0,130,303,FALSE,Having ST-T Wave Abnormality,122,No,2,1,2,2,More chance of heart attack
+59,Female,0,138,271,FALSE,Normal,182,No,0,2,0,2,More chance of heart attack
+41,Male,Atypical Angina,112,268,FALSE,Normal,172,Yes,0,2,0,2,More chance of heart attack
+54,Male,Atypical Angina,108,267,FALSE,Normal,167,No,0,2,0,2,More chance of heart attack
+39,Male,Atypical Angina,94,199,FALSE,Having ST-T Wave Abnormality,179,No,0,2,0,2,More chance of heart attack
+34,Male,Typical Angina,118,210,FALSE,Having ST-T Wave Abnormality,192,No,0.7,2,0,2,More chance of heart attack
+47,Female,0,112,204,FALSE,Having ST-T Wave Abnormality,143,No,0.1,2,0,2,More chance of heart attack
+67,Male,Atypical Angina,152,277,FALSE,Having ST-T Wave Abnormality,172,No,0,2,1,2,More chance of heart attack
+52,Male,Atypical Angina,136,196,FALSE,Normal,169,No,0.1,1,0,2,More chance of heart attack
+74,Male,Typical Angina,120,269,FALSE,Normal,121,Yes,0.2,2,1,2,More chance of heart attack
+54,Male,Atypical Angina,160,201,FALSE,Having ST-T Wave Abnormality,163,No,0,2,1,2,More chance of heart attack
+49,Male,Typical Angina,134,271,FALSE,Having ST-T Wave Abnormality,162,No,0,1,0,2,More chance of heart attack
+42,Female,Typical Angina,120,295,FALSE,Having ST-T Wave Abnormality,162,No,0,2,0,2,More chance of heart attack
+41,Female,Typical Angina,110,235,FALSE,Having ST-T Wave Abnormality,153,No,0,2,0,2,More chance of heart attack
+41,Male,Typical Angina,126,306,FALSE,Having ST-T Wave Abnormality,163,No,0,2,0,2,More chance of heart attack
+49,Male,0,130,269,FALSE,Having ST-T Wave Abnormality,163,No,0,2,0,2,More chance of heart attack
+60,Male,Atypical Angina,120,178,TRUE,Having ST-T Wave Abnormality,96,No,0,2,0,2,More chance of heart attack
+62,Female,Typical Angina,128,208,TRUE,Normal,140,No,0,2,0,2,More chance of heart attack
+57,Female,0,110,201,FALSE,Having ST-T Wave Abnormality,126,Yes,1.5,1,0,1,More chance of heart attack
+64,Female,0,128,263,FALSE,Having ST-T Wave Abnormality,105,Yes,0.2,1,1,3,More chance of heart attack
+51,Male,Atypical Angina,120,295,FALSE,Normal,157,No,0.6,2,0,2,More chance of heart attack
+43,Female,0,115,303,FALSE,Having ST-T Wave Abnormality,181,No,1.2,1,0,2,More chance of heart attack
+42,Male,Atypical Angina,120,209,FALSE,Having ST-T Wave Abnormality,173,No,0,1,0,2,More chance of heart attack
+67,Male,0,106,223,FALSE,Having ST-T Wave Abnormality,142,No,0.3,2,2,2,More chance of heart attack
+76,Male,Atypical Angina,140,197,FALSE,Showing Probable/Definite Left Ventricular Hypertrophy,116,No,1.1,1,0,2,More chance of heart attack
+70,Female,Typical Angina,156,245,FALSE,Normal,143,No,0,2,0,2,More chance of heart attack
+44,Male,Atypical Angina,118,242,FALSE,Having ST-T Wave Abnormality,149,No,0.3,1,1,2,More chance of heart attack
+60,Male,Non-Angina Pain,150,240,FALSE,Having ST-T Wave Abnormality,171,No,0.9,2,0,2,More chance of heart attack
+44,Female,Atypical Angina,120,226,FALSE,Having ST-T Wave Abnormality,169,No,0,2,0,2,More chance of heart attack
+42,Female,Atypical Angina,130,180,FALSE,Having ST-T Wave Abnormality,150,No,0,2,0,2,More chance of heart attack
+66,Female,0,160,228,FALSE,Normal,138,No,2.3,2,0,1,More chance of heart attack
+71,Male,0,112,149,FALSE,Having ST-T Wave Abnormality,125,No,1.6,1,0,2,More chance of heart attack
+64,Female,Non-Angina Pain,170,227,FALSE,Normal,155,No,0.6,1,0,3,More chance of heart attack
+66,Male,Atypical Angina,146,278,FALSE,Normal,152,No,0,1,1,2,More chance of heart attack
+39,Male,Atypical Angina,138,220,FALSE,Having ST-T Wave Abnormality,152,No,0,1,0,2,More chance of heart attack
+58,Male,0,130,197,FALSE,Having ST-T Wave Abnormality,131,No,0.6,1,0,2,More chance of heart attack
+47,Female,Atypical Angina,130,253,FALSE,Having ST-T Wave Abnormality,179,No,0,2,0,2,More chance of heart attack
+35,Female,Typical Angina,122,192,FALSE,Having ST-T Wave Abnormality,174,No,0,2,0,2,More chance of heart attack
+58,Female,Typical Angina,125,220,FALSE,Having ST-T Wave Abnormality,144,No,0.4,1,4,3,More chance of heart attack
+56,Female,Typical Angina,130,221,FALSE,Normal,163,No,0,2,0,3,More chance of heart attack
+56,Female,Typical Angina,120,240,FALSE,Having ST-T Wave Abnormality,169,No,0,0,0,2,More chance of heart attack
+55,Male,Typical Angina,132,342,FALSE,Having ST-T Wave Abnormality,166,No,1.2,2,0,2,More chance of heart attack
+41,Female,Typical Angina,120,157,FALSE,Having ST-T Wave Abnormality,182,No,0,2,0,2,More chance of heart attack
+38,Female,Atypical Angina,138,175,FALSE,Having ST-T Wave Abnormality,173,No,0,2,4,2,More chance of heart attack
+38,Female,Atypical Angina,138,175,FALSE,Having ST-T Wave Abnormality,173,No,0,2,4,2,More chance of heart attack
+67,Female,0,160,286,FALSE,Normal,108,Yes,1.5,1,3,2,Less chance of heart attack
+67,Female,0,120,229,FALSE,Normal,129,Yes,2.6,1,2,3,Less chance of heart attack
+62,Male,0,140,268,FALSE,Normal,160,No,3.6,0,2,2,Less chance of heart attack
+63,Female,0,130,254,FALSE,Normal,147,No,1.4,1,1,3,Less chance of heart attack
+53,Female,0,140,203,TRUE,Normal,155,Yes,3.1,0,0,3,Less chance of heart attack
+56,Female,Atypical Angina,130,256,TRUE,Normal,142,Yes,0.6,1,1,1,Less chance of heart attack
+48,Female,Typical Angina,110,229,FALSE,Having ST-T Wave Abnormality,168,No,1,0,0,3,Less chance of heart attack
+58,Female,Typical Angina,120,284,FALSE,Normal,160,No,1.8,1,0,2,Less chance of heart attack
+58,Female,Atypical Angina,132,224,FALSE,Normal,173,No,3.2,2,2,3,Less chance of heart attack
+60,Female,0,130,206,FALSE,Normal,132,Yes,2.4,1,2,3,Less chance of heart attack
+40,Female,0,110,167,FALSE,Normal,114,Yes,2,1,0,3,Less chance of heart attack
+60,Female,0,117,230,TRUE,Having ST-T Wave Abnormality,160,Yes,1.4,2,2,3,Less chance of heart attack
+64,Female,Atypical Angina,140,335,FALSE,Having ST-T Wave Abnormality,158,No,0,2,0,2,Less chance of heart attack
+43,Female,0,120,177,FALSE,Normal,120,Yes,2.5,1,0,3,Less chance of heart attack
+57,Female,0,150,276,FALSE,Normal,112,Yes,0.6,1,1,1,Less chance of heart attack
+55,Female,0,132,353,FALSE,Having ST-T Wave Abnormality,132,Yes,1.2,1,1,3,Less chance of heart attack
+65,Male,0,150,225,FALSE,Normal,114,No,1,1,3,3,Less chance of heart attack
+61,Male,0,130,330,FALSE,Normal,169,No,0,2,0,2,Less chance of heart attack
+58,Female,Atypical Angina,112,230,FALSE,Normal,165,No,2.5,1,1,3,Less chance of heart attack
+50,Female,0,150,243,FALSE,Normal,128,No,2.6,1,0,3,Less chance of heart attack
+44,Female,0,112,290,FALSE,Normal,153,No,0,2,1,2,Less chance of heart attack
+60,Female,0,130,253,FALSE,Having ST-T Wave Abnormality,144,Yes,1.4,2,1,3,Less chance of heart attack
+54,Female,0,124,266,FALSE,Normal,109,Yes,2.2,1,1,3,Less chance of heart attack
+50,Female,Atypical Angina,140,233,FALSE,Having ST-T Wave Abnormality,163,No,0.6,1,1,3,Less chance of heart attack
+41,Female,0,110,172,FALSE,Normal,158,No,0,2,0,3,Less chance of heart attack
+51,Male,0,130,305,FALSE,Having ST-T Wave Abnormality,142,Yes,1.2,1,0,3,Less chance of heart attack
+58,Female,0,128,216,FALSE,Normal,131,Yes,2.2,1,3,3,Less chance of heart attack
+54,Female,0,120,188,FALSE,Having ST-T Wave Abnormality,113,No,1.4,1,1,3,Less chance of heart attack
+60,Female,0,145,282,FALSE,Normal,142,Yes,2.8,1,2,3,Less chance of heart attack
+60,Female,Atypical Angina,140,185,FALSE,Normal,155,No,3,1,0,2,Less chance of heart attack
+59,Female,0,170,326,FALSE,Normal,140,Yes,3.4,0,0,3,Less chance of heart attack
+46,Female,Atypical Angina,150,231,FALSE,Having ST-T Wave Abnormality,147,No,3.6,1,0,2,Less chance of heart attack
+67,Female,0,125,254,TRUE,Having ST-T Wave Abnormality,163,No,0.2,1,2,3,Less chance of heart attack
+62,Female,0,120,267,FALSE,Having ST-T Wave Abnormality,99,Yes,1.8,1,2,3,Less chance of heart attack
+65,Female,0,110,248,FALSE,Normal,158,No,0.6,2,2,1,Less chance of heart attack
+44,Female,0,110,197,FALSE,Normal,177,No,0,2,1,2,Less chance of heart attack
+60,Female,0,125,258,FALSE,Normal,141,Yes,2.8,1,1,3,Less chance of heart attack
+58,Female,0,150,270,FALSE,Normal,111,Yes,0.8,2,0,3,Less chance of heart attack
+68,Female,Atypical Angina,180,274,TRUE,Normal,150,Yes,1.6,1,0,3,Less chance of heart attack
+62,Male,0,160,164,FALSE,Normal,145,No,6.2,0,3,3,Less chance of heart attack
+52,Female,0,128,255,FALSE,Having ST-T Wave Abnormality,161,Yes,0,2,1,3,Less chance of heart attack
+59,Female,0,110,239,FALSE,Normal,142,Yes,1.2,1,1,3,Less chance of heart attack
+60,Male,0,150,258,FALSE,Normal,157,No,2.6,1,2,3,Less chance of heart attack
+49,Female,Atypical Angina,120,188,FALSE,Having ST-T Wave Abnormality,139,No,2,1,3,3,Less chance of heart attack
+59,Female,0,140,177,FALSE,Having ST-T Wave Abnormality,162,Yes,0,2,1,3,Less chance of heart attack
+57,Female,Atypical Angina,128,229,FALSE,Normal,150,No,0.4,1,1,3,Less chance of heart attack
+61,Female,0,120,260,FALSE,Having ST-T Wave Abnormality,140,Yes,3.6,1,1,3,Less chance of heart attack
+39,Female,0,118,219,FALSE,Having ST-T Wave Abnormality,140,No,1.2,1,0,3,Less chance of heart attack
+61,Male,0,145,307,FALSE,Normal,146,Yes,1,1,0,3,Less chance of heart attack
+56,Female,0,125,249,TRUE,Normal,144,Yes,1.2,1,1,2,Less chance of heart attack
+43,Male,0,132,341,TRUE,Normal,136,Yes,3,1,0,3,Less chance of heart attack
+62,Male,Atypical Angina,130,263,FALSE,Having ST-T Wave Abnormality,97,No,1.2,1,1,3,Less chance of heart attack
+63,Female,0,130,330,TRUE,Normal,132,Yes,1.8,2,3,3,Less chance of heart attack
+65,Female,0,135,254,FALSE,Normal,127,No,2.8,1,1,3,Less chance of heart attack
+48,Female,0,130,256,TRUE,Normal,150,Yes,0,2,2,3,Less chance of heart attack
+63,Male,0,150,407,FALSE,Normal,154,No,4,1,3,3,Less chance of heart attack
+55,Female,0,140,217,FALSE,Having ST-T Wave Abnormality,111,Yes,5.6,0,0,3,Less chance of heart attack
+65,Female,Non-Angina Pain,138,282,TRUE,Normal,174,No,1.4,1,1,2,Less chance of heart attack
+56,Male,0,200,288,TRUE,Normal,133,Yes,4,0,2,3,Less chance of heart attack
+54,Female,0,110,239,FALSE,Having ST-T Wave Abnormality,126,Yes,2.8,1,1,3,Less chance of heart attack
+70,Female,0,145,174,FALSE,Having ST-T Wave Abnormality,125,Yes,2.6,0,0,3,Less chance of heart attack
+62,Female,Typical Angina,120,281,FALSE,Normal,103,No,1.4,1,1,3,Less chance of heart attack
+35,Female,0,120,198,FALSE,Having ST-T Wave Abnormality,130,Yes,1.6,1,0,3,Less chance of heart attack
+59,Female,Non-Angina Pain,170,288,FALSE,Normal,159,No,0.2,1,0,3,Less chance of heart attack
+64,Female,Atypical Angina,125,309,FALSE,Having ST-T Wave Abnormality,131,Yes,1.8,1,0,3,Less chance of heart attack
+47,Female,Atypical Angina,108,243,FALSE,Having ST-T Wave Abnormality,152,No,0,2,0,2,Less chance of heart attack
+57,Female,0,165,289,TRUE,Normal,124,No,1,1,3,3,Less chance of heart attack
+55,Female,0,160,289,FALSE,Normal,145,Yes,0.8,1,1,3,Less chance of heart attack
+64,Female,0,120,246,FALSE,Normal,96,Yes,2.2,0,1,2,Less chance of heart attack
+70,Female,0,130,322,FALSE,Normal,109,No,2.4,1,3,2,Less chance of heart attack
+51,Female,0,140,299,FALSE,Having ST-T Wave Abnormality,173,Yes,1.6,2,0,3,Less chance of heart attack
+58,Female,0,125,300,FALSE,Normal,171,No,0,2,2,3,Less chance of heart attack
+60,Female,0,140,293,FALSE,Normal,170,No,1.2,1,2,3,Less chance of heart attack
+77,Female,0,125,304,FALSE,Normal,162,Yes,0,2,3,2,Less chance of heart attack
+35,Female,0,126,282,FALSE,Normal,156,Yes,0,2,0,3,Less chance of heart attack
+70,Female,Atypical Angina,160,269,FALSE,Having ST-T Wave Abnormality,112,Yes,2.9,1,1,3,Less chance of heart attack
+59,Male,0,174,249,FALSE,Having ST-T Wave Abnormality,143,Yes,0,1,0,2,Less chance of heart attack
+64,Female,0,145,212,FALSE,Normal,132,No,2,1,2,1,Less chance of heart attack
+57,Female,0,152,274,FALSE,Having ST-T Wave Abnormality,88,Yes,1.2,1,1,3,Less chance of heart attack
+56,Female,0,132,184,FALSE,Normal,105,Yes,2.1,1,1,1,Less chance of heart attack
+48,Female,0,124,274,FALSE,Normal,166,No,0.5,1,0,3,Less chance of heart attack
+56,Male,0,134,409,FALSE,Normal,150,Yes,1.9,1,2,3,Less chance of heart attack
+66,Female,Typical Angina,160,246,FALSE,Having ST-T Wave Abnormality,120,Yes,0,1,3,1,Less chance of heart attack
+54,Female,Typical Angina,192,283,FALSE,Normal,195,No,0,2,1,3,Less chance of heart attack
+69,Female,Atypical Angina,140,254,FALSE,Normal,146,No,2,1,3,3,Less chance of heart attack
+51,Female,0,140,298,FALSE,Having ST-T Wave Abnormality,122,Yes,4.2,1,3,3,Less chance of heart attack
+43,Female,0,132,247,TRUE,Normal,143,Yes,0.1,1,4,3,Less chance of heart attack
+62,Male,0,138,294,TRUE,Having ST-T Wave Abnormality,106,No,1.9,1,3,2,Less chance of heart attack
+67,Female,0,100,299,FALSE,Normal,125,Yes,0.9,1,2,2,Less chance of heart attack
+59,Female,Non-Angina Pain,160,273,FALSE,Normal,125,No,0,2,0,2,Less chance of heart attack
+45,Female,0,142,309,FALSE,Normal,147,Yes,0,1,3,3,Less chance of heart attack
+58,Female,0,128,259,FALSE,Normal,130,Yes,3,1,2,3,Less chance of heart attack
+50,Female,0,144,200,FALSE,Normal,126,Yes,0.9,1,0,3,Less chance of heart attack
+62,Male,0,150,244,FALSE,Having ST-T Wave Abnormality,154,Yes,1.4,1,0,2,Less chance of heart attack
+38,Female,Non-Angina Pain,120,231,FALSE,Having ST-T Wave Abnormality,182,Yes,3.8,1,0,3,Less chance of heart attack
+66,Male,0,178,228,TRUE,Having ST-T Wave Abnormality,165,Yes,1,1,2,3,Less chance of heart attack
+52,Female,0,112,230,FALSE,Having ST-T Wave Abnormality,160,No,0,2,1,2,Less chance of heart attack
+53,Female,0,123,282,FALSE,Having ST-T Wave Abnormality,95,Yes,2,1,2,3,Less chance of heart attack
+63,Male,0,108,269,FALSE,Having ST-T Wave Abnormality,169,Yes,1.8,1,2,2,Less chance of heart attack
+54,Female,0,110,206,FALSE,Normal,108,Yes,0,1,1,2,Less chance of heart attack
+66,Female,0,112,212,FALSE,Normal,132,Yes,0.1,2,1,2,Less chance of heart attack
+55,Male,0,180,327,FALSE,Showing Probable/Definite Left Ventricular Hypertrophy,117,Yes,3.4,1,0,2,Less chance of heart attack
+49,Female,Atypical Angina,118,149,FALSE,Normal,126,No,0.8,2,3,2,Less chance of heart attack
+54,Female,0,122,286,FALSE,Normal,116,Yes,3.2,1,2,2,Less chance of heart attack
+56,Female,0,130,283,TRUE,Normal,103,Yes,1.6,0,0,3,Less chance of heart attack
+46,Female,0,120,249,FALSE,Normal,144,No,0.8,2,0,3,Less chance of heart attack
+61,Female,Non-Angina Pain,134,234,FALSE,Having ST-T Wave Abnormality,145,No,2.6,1,2,2,Less chance of heart attack
+67,Female,0,120,237,FALSE,Having ST-T Wave Abnormality,71,No,1,1,0,2,Less chance of heart attack
+58,Female,0,100,234,FALSE,Having ST-T Wave Abnormality,156,No,0.1,2,1,3,Less chance of heart attack
+47,Female,0,110,275,FALSE,Normal,118,Yes,1,1,1,2,Less chance of heart attack
+52,Female,0,125,212,FALSE,Having ST-T Wave Abnormality,168,No,1,2,2,3,Less chance of heart attack
+58,Female,0,146,218,FALSE,Having ST-T Wave Abnormality,105,No,2,1,1,3,Less chance of heart attack
+57,Female,Typical Angina,124,261,FALSE,Having ST-T Wave Abnormality,141,No,0.3,2,0,3,Less chance of heart attack
+58,Male,Typical Angina,136,319,TRUE,Normal,152,No,0,2,2,2,Less chance of heart attack
+61,Female,0,138,166,FALSE,Normal,125,Yes,3.6,1,1,2,Less chance of heart attack
+42,Female,0,136,315,FALSE,Having ST-T Wave Abnormality,125,Yes,1.8,1,0,1,Less chance of heart attack
+52,Female,0,128,204,TRUE,Having ST-T Wave Abnormality,156,Yes,1,1,0,0,Less chance of heart attack
+59,Female,Atypical Angina,126,218,TRUE,Having ST-T Wave Abnormality,134,No,2.2,1,1,1,Less chance of heart attack
+40,Female,0,152,223,FALSE,Having ST-T Wave Abnormality,181,No,0,2,0,3,Less chance of heart attack
+61,Female,0,140,207,FALSE,Normal,138,Yes,1.9,2,1,3,Less chance of heart attack
+46,Female,0,140,311,FALSE,Having ST-T Wave Abnormality,120,Yes,1.8,1,2,3,Less chance of heart attack
+59,Female,Non-Angina Pain,134,204,FALSE,Having ST-T Wave Abnormality,162,No,0.8,2,2,2,Less chance of heart attack
+57,Female,Typical Angina,154,232,FALSE,Normal,164,No,0,2,1,2,Less chance of heart attack
+57,Female,0,110,335,FALSE,Having ST-T Wave Abnormality,143,Yes,3,1,1,3,Less chance of heart attack
+55,Male,0,128,205,FALSE,Showing Probable/Definite Left Ventricular Hypertrophy,130,Yes,2,1,1,3,Less chance of heart attack
+61,Female,0,148,203,FALSE,Having ST-T Wave Abnormality,161,No,0,2,1,3,Less chance of heart attack
+58,Female,0,114,318,FALSE,Showing Probable/Definite Left Ventricular Hypertrophy,140,No,4.4,0,3,1,Less chance of heart attack
+58,Male,0,170,225,TRUE,Normal,146,Yes,2.8,1,2,1,Less chance of heart attack
+67,Female,Atypical Angina,152,212,FALSE,Normal,150,No,0.8,1,0,3,Less chance of heart attack
+44,Female,0,120,169,FALSE,Having ST-T Wave Abnormality,144,Yes,2.8,0,0,1,Less chance of heart attack
+63,Female,0,140,187,FALSE,Normal,144,Yes,4,2,2,3,Less chance of heart attack
+63,Male,0,124,197,FALSE,Having ST-T Wave Abnormality,136,Yes,0,1,0,2,Less chance of heart attack
+59,Female,0,164,176,TRUE,Normal,90,No,1,1,2,1,Less chance of heart attack
+57,Male,0,140,241,FALSE,Having ST-T Wave Abnormality,123,Yes,0.2,1,0,3,Less chance of heart attack
+45,Female,Non-Angina Pain,110,264,FALSE,Having ST-T Wave Abnormality,132,No,1.2,1,0,3,Less chance of heart attack
+68,Female,0,144,193,TRUE,Having ST-T Wave Abnormality,141,No,3.4,1,2,3,Less chance of heart attack
+57,Female,0,130,131,FALSE,Having ST-T Wave Abnormality,115,Yes,1.2,1,1,3,Less chance of heart attack
+57,Male,Typical Angina,130,236,FALSE,Normal,174,No,0,1,1,2,Less chance of heart attack
