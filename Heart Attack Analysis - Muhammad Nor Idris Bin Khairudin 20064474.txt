@@ -1,0 +1,113 @@
+library(shiny)
+library(ggplot2)
+library(DT)
+
+heart <- read.csv(file = "https://raw.githubusercontent.com/idrissmilee/idrissmilee/main/heart%20(2).csv", header = TRUE, sep = ",")
+
+ui <- fluidPage(
+  br(),
+  shinythemes::themeSelector(),
+  sidebarLayout(
+    sidebarPanel(
+      selectInput(
+        inputId = "y",
+        label = "Y-axis:",
+        choices = c(
+          "Age" = "age",
+          "Resting Blood Pressure" = "trtbps",
+          "Cholestoral" = "chol",
+          "Fasting Blood Sugar" = "fbs",
+          "Maximum Heart Rate Achieved" = "thalachh",
+          "Target" = "output"
+        ),
+        selected = "age"
+      ),
+      selectInput(
+        inputId = "x",
+        label = "X-axis:",
+        choices = c(
+          "Age" = "age",
+          "Resting Blood Pressure" = "trtbps",
+          "Cholestoral" = "chol",
+          "Maximum Heart Rate Achieved" = "thalachh",
+          "Target" = "output"
+        ),
+        selected = "thalachh"
+      ),
+      
+      selectInput(
+        inputId = "z",
+        label = "Color by:",
+        choices = c(
+          "Sex" = "sex",
+          "Type of Chest Pain" = "cp",
+          "Exercise Induced Angina" = "exng",
+          "Fasting Blood Sugar" = "fbs",
+          "Target" = "output"
+        ),
+        selected = "sex"
+      ),
+      
+      checkboxInput(
+        inputId = "show_data",
+        label = "Show data table", 
+        value = TRUE
+      ),
+      sliderInput(
+        inputId = "alpha",
+        label = "Alpha:",
+        min = 0, max = 1,
+        value = 0.5
+      ),
+      textInput(
+        inputId = "plot_title",
+        label = "Plot title",
+        placeholder = "Enter text to be used as plot title"
+      ),
+      actionButton(
+        inputId = "update_plot_title",
+        label = "Update plot title"
+      )
+    ),
+    mainPanel(
+      plotOutput(outputId = "scatterplot", brush = "plot_brush"), 
+      dataTableOutput(outputId = "moviestable"),
+      br()
+    )
+  )
+)
+
+server <- function(input, output, session) {
+  brushed_data <- reactive({
+    if (!is.null(input$plot_brush)) {
+      brushedPoints(heart, brush = input$plot_brush)
+    } else {
+      # Return the entire dataset if no brush selection
+      heart
+    }
+  })
+  
+  output$moviestable <- renderDataTable({
+    if (input$show_data) {
+      DT::datatable(data = brushed_data(),
+                    options = list(pageLength = 100),
+                    rownames = FALSE)
+    } else {
+      NULL
+    }
+  })
+  
+  updated_title <- reactiveVal("Heart Attack Analysis & Prediction Dataset")
+  
+  observeEvent(input$update_plot_title, {
+    updated_title(input$plot_title)
+  })
+  
+  output$scatterplot <- renderPlot({
+    ggplot(data = heart, aes_string(x = input$x, y = input$y, color = input$z)) +
+      geom_point() +
+      ggtitle(updated_title())
+  })
+}
+
+shinyApp(ui = ui, server = server)
